@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SupportLanguage</string>
+
+    <string name="text_View">Hello</string>
+    <string name="Language">Select Language</string>
+</resources>

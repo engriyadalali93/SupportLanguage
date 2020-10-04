@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SupportLanguage</string>
+    <string name="text_View">مرحبا</string>
+    <string name="Language">اختيار اللغة</string>
+</resources>
